@@ -15,7 +15,7 @@ module.export = () => ({
           name: "movies",
           filename: "remoteEntry.js",
           exposes: {
-            "./Movies": "./src/MoviesContent"
+            "./Movies": "./src/MoviesContent",
           },
           shared: {
             ...deps,

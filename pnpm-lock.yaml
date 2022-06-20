@@ -147,6 +147,7 @@ importers:
       '@mantine/hooks': ^4.2.9
       '@types/react': ^18.0.14
       '@types/react-dom': ^18.0.5
+      card: workspace:*
       eslint: ^7.32.0
       eslint-config-custom: workspace:*
       react: ^18.2.0
@@ -162,6 +163,7 @@ importers:
     devDependencies:
       '@types/react': 18.0.14
       '@types/react-dom': 18.0.5
+      card: link:../card
       eslint: 7.32.0
       eslint-config-custom: link:../eslint-config-custom
       react: 18.2.0

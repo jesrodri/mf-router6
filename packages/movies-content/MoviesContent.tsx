@@ -1,6 +1,6 @@
 import React from "react";
-import { MovieCard } from "card";
 import { Grid, Title } from "@mantine/core";
+import { MovieCard } from "card";
 
 const movies = [
   {
